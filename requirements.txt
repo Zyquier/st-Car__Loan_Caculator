@@ -1,0 +1,5 @@
+numpy_financial==1.0.0
+pandas==1.5.2
+plotly==5.11.0
+streamlit==1.17.0
+streamlit_extras==0.2.7
